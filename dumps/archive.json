@@ -1,0 +1,18 @@
+{
+	"version": "0.0.0",
+	"lastModified": "2020-01-19T18:37:39.652Z",
+	"playlists": [
+		{
+			"url": "https://www.youtube.com/playlist?list=PLKr2m-2Irsv1BQFt-tev-aL_eOU-14P7d",
+			"finished": true
+		}
+	],
+	"videos": [
+		{
+			"id": "-Dd246tVRy8",
+			"provider": "youtube",
+			"dlFinished": true,
+			"editAsked": true
+		}
+	]
+}
